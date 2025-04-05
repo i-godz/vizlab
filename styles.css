@@ -272,10 +272,13 @@ body {
   
 }
 
-.highlight-blue {
-  color: var(--blue);
+.cards-section p {
+  font-size: 1rem;
+  color: var(--dark-gray);
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  
 }
-
 
 .cards-section {
   display: flex;
